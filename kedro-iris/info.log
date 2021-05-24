@@ -2,3 +2,4 @@
 2021-05-24 10:44:07,014 - kedro.framework.session.session - WARNING - Unable to git describe /home/my_sourabh/PycharmProjects/pythonProject5/kedro-iris
 2021-05-24 10:44:30,259 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
 2021-05-24 10:44:30,263 - kedro.framework.session.session - WARNING - Unable to git describe /home/my_sourabh/PycharmProjects/pythonProject5/kedro-iris
+2021-05-24 11:41:26,903 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
